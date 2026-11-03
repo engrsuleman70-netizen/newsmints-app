@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Newsmints</string>
+    <string name="app_tagline">Daily curated updates and reward tasks</string>
+    <string name="top_bar_title">My Rewards: %1$d Points</string>
+    <string name="daily_checkin_button">Daily Check-In +5 Points</string>
+    <string name="bonus_ad_button">Watch Bonus Ad +10 Points</string>
+    <string name="rate_text">1000 Points = 50 PKR</string>
+    <string name="redeem_button_active">Redeem 1000 Points - Get 50 PKR</string>
+    <string name="redeem_button_disabled">Need 1000 Points to Redeem</string>
+</resources>

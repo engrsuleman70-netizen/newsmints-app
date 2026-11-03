@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#0F172A</color>
+    <color name="primary_blue">#2563EB</color>
+    <color name="accent_purple">#7C3AED</color>
+    <color name="success_emerald">#059669</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="card_border">#E2E8F0</color>
+</resources>
